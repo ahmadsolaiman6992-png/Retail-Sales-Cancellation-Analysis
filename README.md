@@ -41,7 +41,7 @@ The analysis is based on the Online Retail dataset, which contains three tables:
 
 
 
-![Top Countries](visuals/top_countries.png)
+![Top Countries](top_countries.png)
 
 
 
