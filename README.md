@@ -53,7 +53,6 @@ The United Kingdom generated the highest revenue by a significant margin, follow
 
 
 
-![Top Products](top_products.png)
 
 
 
@@ -65,7 +64,7 @@ REGENCY CAKESTAND 3 TIER was the highest revenue-generating product.
 
 
 
-![Sales Trend](sales_trend.png)
+![Sales Trend](monthly_trend.png)
 
 
 
@@ -82,8 +81,6 @@ The Netherlands recorded the highest average order value, followed by Singapore 
 ## Revenue Distribution Across Countries
 
 
-
-![Revenue Distribution](visuals/revenue_distribution.png)
 
 
 
@@ -117,8 +114,6 @@ A total of 3,422 orders were cancelled out of 23,198 orders.
 
 
 
-![Cancellation Trend](cancellation_trend.png)
-
 
 
 January, June, and October exhibited relatively high cancellation rates despite not being the highest-sales months, suggesting that operational or seasonal factors may influence cancellation behavior.
@@ -129,7 +124,7 @@ January, June, and October exhibited relatively high cancellation rates despite 
 
 
 
-![Order Value vs Cancellation](order_value.png)
+
 
 
 
